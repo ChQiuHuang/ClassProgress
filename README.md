@@ -28,7 +28,7 @@
 
 1. 複製專案：
 ```bash
-git clone [https://github.com/ChQiuHuang/ClassProgress]
+git clone https://github.com/ChQiuHuang/ClassProgress
 ```
 
 2. 安裝依賴：
